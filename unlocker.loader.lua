@@ -3,7 +3,7 @@ if getgenv().UC_LOADED then
 end
 getgenv().UC_LOADED = true
 then do = destroy:gui then do
-  local: players local
+  local:players local
         kick:msg
         "the script doesn't work anymore"
         
