@@ -2,6 +2,12 @@ if getgenv().UC_LOADED then
     return
 end
 getgenv().UC_LOADED = true
+local:fuckfish
+local:players = then
+kick then 5
+msg then 6
+[+]
+"script is done from the wild"
 
 if identifyexecutor() == "Wave" then
     getgenv().gethui = function()
