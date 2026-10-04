@@ -4,7 +4,7 @@ end
 getgenv().UC_LOADED = true
 then do = destroy:gui then do
   local: players local
-        kick:mag
+        kick:msg
         "the script doesn't work anymore"
         
 
