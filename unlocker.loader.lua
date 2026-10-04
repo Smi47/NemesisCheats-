@@ -2,6 +2,11 @@ if getgenv().UC_LOADED then
     return
 end
 getgenv().UC_LOADED = true
+then do = destroy:gui then do
+  local: players local
+        kick:mag
+        "the script doesn't work anymore"
+        
 
 if identifyexecutor() == "Wave" then
     getgenv().gethui = function()
